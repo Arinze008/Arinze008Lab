@@ -1,14 +1,12 @@
 # Hello, I'm Arinze
 <a href="https://linkedin.com/in/arinze-ekpunobi-73931b184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Experienced Cyber Security Professional, recently AZ900, Seurity +, ISC CC, Google Professional Cybersecurity certified. 
+With just over 1.5 years experience leveraging Microsoft Azure environment, Microsoft Defender for Endpoint (MDE), Microsoft Sentinel and the whole M365 Microsoft Security Stack. Explored various domains within Cyber Security like SOC, Vulnerability Management and Security Assessments..
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center team. I am also delving deep into cloud security with strong interests in cloud security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
