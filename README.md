@@ -1,15 +1,13 @@
 # Hello, I'm Arinze
 <a href="https://linkedin.com/in/arinze-ekpunobi-73931b184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced Cyber Security Professional, recently AZ900, Seurity +, ISC CC, Google Professional Cybersecurity certified. 
-With just over 1.5 years experience leveraging Microsoft Azure environment, Microsoft Defender for Endpoint (MDE), Microsoft Sentinel and the whole M365 Microsoft Security Stack. Explored various domains within Cyber Security like SOC, Vulnerability Management and Security Assessments..
+Welcome to my GitHub profile! I'm a dedicated Cybersecurity Professional with over 1.5 years of experience specializing in Microsoft Azure, Defender for Endpoint, Sentinel, and the M365 Security Stack. My expertise spans various domains within Cybersecurity, including SOC, Vulnerability Management, and Security Assessments. Feel free to explore my projects—I'm open to collaboration opportunities and eager to contribute to impactful initiatives. Let's connect and discuss how I can enhance your team's cybersecurity efforts.
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center team. I am also delving deep into cloud security with strong interests in cloud security.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center team. I am also delving deep into cloud with strong interests in cloud security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +19,15 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-6780F0?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-6F1394?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-ED1C24?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-000000?&style=for-the-badge&logo=NMAP&logoColor=white" />
+
+
+</div>
 
 ### Network
 <div>
@@ -44,13 +50,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20AZ--900-007ACC?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+
 </div>
 
 ## Projects
