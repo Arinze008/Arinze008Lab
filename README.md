@@ -1,7 +1,8 @@
 # Hello, I'm Arinze
 <a href="https://linkedin.com/in/arinze-ekpunobi-73931b184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a dedicated Cybersecurity Professional with over 1.5 years of experience specializing in Microsoft Azure, Defender for Endpoint, Sentinel, and the M365 Security Stack. My expertise spans various domains within Cybersecurity, including SOC, Vulnerability Management, and Security Assessments. Feel free to explore my projects—I'm open to collaboration opportunities and eager to contribute to impactful initiatives. Let's connect and discuss how I can enhance your team's cybersecurity efforts.
+Welcome to my GitHub profile! I'm a dedicated Cybersecurity Professional with over 1.5 years of experience specializing in Microsoft Azure, Defender for Endpoint, Sentinel, and the M365 Security Stack. My expertise spans various domains within Cybersecurity, including SOC, Penetration Testing, Vulnerability Management, Cloud Security, GRC and Security Assessments. 
+Feel free to explore my projects— I'm open to collaboration opportunities and eager to contribute to impactful initiatives. Let's connect and discuss how I can enhance your team's cybersecurity efforts.
 
 ## Objective
 
@@ -15,7 +16,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Penetration Testing Project                   | <a href="https://github.com/Arinze008/Penetration-Testing-Lab/blob/main/README.md">Pentration Testing Project</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -59,5 +60,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
+- <a href="https://github.com/Arinze008/Penetration-Testing-Lab/blob/main/README.md">Pentration Testing Project</a>
 - Detection Lab
 - SOC Automation Project
